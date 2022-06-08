@@ -25,7 +25,7 @@ async def help_cb(c, m):
 
 **1. Support Channels :** just make me admin with edit permission, I'll add url & share button In media posts.
 
-**2.** You can delete your file while saving files in private. 🗑\n___
+**2.** You can delete your file while saving files in private. 🗑\n___"""
 
 # **3. Attach :** I can attach media & file in a message by public links.
 # ➩ First send a message. 
